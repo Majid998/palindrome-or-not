@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1614882439 source:c:\users\mujahidmumtazhusain\onedrive\documents\c++ lesson 1 codeblocks\studies\palindrome-number\main.c
+	<stdio.h>
+	<stdlib.h>
+
